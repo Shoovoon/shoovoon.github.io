@@ -17,10 +17,31 @@ body{
 }
 
 .about-container{
+    /* background-color: #54192E; */
+
+}
+
+#AboutText{
     background-color: #54192E;
 
 }
 
-.about-container-pic{
+#AboutPic{
+    /* background-color: #08081f; */
 
+}
+
+.bg-edu{
+    color: #5E2F62;
+}
+
+.education-container{
+    background-color: #FFFFFF;
+}
+
+.circle{
+    background-color: #EEBB2E;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
 }
