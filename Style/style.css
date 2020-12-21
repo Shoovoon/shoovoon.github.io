@@ -4,6 +4,16 @@ body{
 
 }
 
+/* Custom Color */
+.bg-edu{
+    color: #5E2F62;
+}
+
+.bg-red {
+    background-color: #54192E ;
+}
+/* Custom Color Ends */
+
 .banner-container{
 }
 
@@ -31,9 +41,7 @@ body{
 
 }
 
-.bg-edu{
-    color: #5E2F62;
-}
+
 
 .education-container{
     background-color: #FFFFFF;
@@ -45,3 +53,12 @@ body{
     height: 150px;
     border-radius: 50%;
 }
+
+.project-container{
+    background-color: #181733;
+}
+
+.project-container a{
+    text-decoration: none;
+    color: white;
+} 
