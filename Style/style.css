@@ -9,6 +9,15 @@ body{
     color: #5E2F62;
 }
 
+.bg-white {
+    background-color: #FFFFFF ;
+}
+
+.bg-red2{
+    background-color: #CE382D;
+
+}
+
 .bg-red {
     background-color: #54192E ;
 }
@@ -23,7 +32,10 @@ body{
 }
 
 .navbar-container{
+    top: 0;
     background-color: #08081f;
+    position: sticky;
+    z-index: 2;;
 }
 
 .about-container{
@@ -62,3 +74,8 @@ body{
     text-decoration: none;
     color: white;
 } 
+
+.portfolio-container{
+    
+}
+
